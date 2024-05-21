@@ -1,0 +1,44 @@
+name: bubblegum
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  google_fonts: ^6.2.1
+  cupertino_icons: ^1.0.6
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/turk_kahvesi.jpg
+    - assets/espresso.jpg
+    - assets/americano.jpg
+    - assets/espresso_con_panna.jpg
+    - assets/filtre_kahve.jpg
+    - assets/latte.jpg
+    - assets/flat_white.jpg
+    - assets/latte_macchiato.jpg
+    - assets/cappuccino.jpg
+    - assets/irish_coffee.jpg
+    - assets/kopi_luwak.jpg
+    - assets/mocha.jpg
+    - assets/caffe_misto.jpg
+    - assets/cold_brew.jpg
+    - assets/affogato.jpg
+    - assets/frappe.jpg
+    - assets/ca_phe_sua_da.jpg
+    - assets/yumurtali_kahve.jpg
+    - assets/marocchino.jpg
+    - assets/kaffeost.jpg
+    - assets/coffee_logo.png
+
+
+
+    
